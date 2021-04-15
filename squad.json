@@ -35,6 +35,10 @@
   "discordId": ""
   },
   {
+   "name": "Canors",
+  "allyCode": "381642189",
+  "discordId": "390658731630657536"
+  {
   "name": "Evilgrunt360",
   "allyCode": "437488742",
   "discordId": "110876743136456704"
@@ -65,11 +69,6 @@
   "discordId": ""
   },
   {
-  "name": "Miser Elhombre",
-  "allyCode": "229444162",
-  "discordId": ""
-  },
-  {
   "name": "Nerfherder",
   "allyCode": "",
   "discordId": ""
@@ -78,6 +77,11 @@
   "name": "iMixmaster",
   "allyCode": "419784598",
   "discordId": "172084711877902336"
+  },
+   {
+  "name": "LordChocolate",
+  "allyCode": "255229794",
+  "discordId": "418948211462373406"
   },
   {
   "name": "Zero Valor",
@@ -148,6 +152,11 @@
   "name": "Rgg085",
   "allyCode": "139884561",
   "discordId": "434826051844046858"
+  },
+   {
+  "name": "O'Neill",
+  "allyCode": "896233185",
+  "discordId": "434974047248318465"
   },
   {
   "name": "Cyren Baker",
