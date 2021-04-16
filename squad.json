@@ -35,7 +35,7 @@
   "discordId": ""
   },
   {
-   "name": "Canors",
+  "name": "Canors",
   "allyCode": "381642189",
   "discordId": "390658731630657536"
   {
@@ -144,7 +144,7 @@
   "discordId": ""
   },
   {
-  "name": "Bendu",
+  "name": "JCorbink",
   "allyCode": "384216998",
   "discordId": "395845691789934595"
   },
@@ -153,7 +153,7 @@
   "allyCode": "139884561",
   "discordId": "434826051844046858"
   },
-   {
+  {
   "name": "O'Neill",
   "allyCode": "896233185",
   "discordId": "434974047248318465"
@@ -181,11 +181,6 @@
   {
   "name": "Karuzel",
   "allyCode": "434482985",
-  "discordId": ""
-  },
-  {
-  "name": "7zark7",
-  "allyCode": "715212177",
   "discordId": ""
   }
 ]
